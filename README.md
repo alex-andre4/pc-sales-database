@@ -19,7 +19,7 @@ This project simulates a fictional PC retail company database system built in **
 
 ## 🗃️ Schema Overview
 
-![ER Diagram](docs/ERDiagram.jpg)
+![ER Diagram](https://github.com/alex-andre4/pc-sales-database/blob/main/Videos%20and%20Instructions/ERDiagram.jpg?raw=true)
 
 ## 🛠️ Setup Instructions
 
@@ -62,8 +62,7 @@ Queries available in sql/my_queries.sql.
     Validating cascade constraints during deletions/updates
 
 🧠 Author
+    Alexandre Morales
 
-Alexandre Morales
 📝 License
-
-MIT License
+    MIT License
