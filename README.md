@@ -19,7 +19,7 @@ This project simulates a fictional PC retail company database system built in **
 
 ## 🗃️ Schema Overview
 
-![ER Diagram](https://github.com/alex-andre4/pc-sales-database/blob/main/Videos%20and%20Instructions/ERDiagram.jpg?raw=true)
+[View the ER Diagram](https://github.com/alex-andre4/pc-sales-database/blob/main/Videos%20and%20Instructions/ERDiagram.jpg)
 
 ## 🛠️ Setup Instructions
 
